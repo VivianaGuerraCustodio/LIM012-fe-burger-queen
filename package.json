@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/VivianaGuerraCustodio/LIM012-fe-burger-queen/issues"
   },
-  "homepage": "https://github.com/VivianaGuerraCustodio/LIM012-fe-burger-queen#readme"
+  "homepage": "https://github.com/VivianaGuerraCustodio/LIM012-fe-burger-queen#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
