@@ -2,7 +2,7 @@
 
 El proyecto consiste en realizar un webApp en el contexto de un restaurante , relación meserx. cocina , esta webApp nos debe permitir tomar pedidos , utlizando algún framework como React, Angular o Vue , en este caso opté por utilizar [Vue](https://es.vuejs.org/index.html).
 
-### Primer Sprint
+## Primer Sprint
 
 - Hice Fork y clone, al proyecto.
 - Organicé el Github project con issues, milestones, label y fijé una fecha por cada historia de usuario(como una meta).
@@ -10,7 +10,17 @@ El proyecto consiste en realizar un webApp en el contexto de un restaurante , re
 - Integré el feedback en el prototipo en Figma, volví a pedir feedback 🤭.
 - Organización : En el sistema organicé un To do , con tareas por hora, y fui muy específica en los pasos de cada tarea. 
 
-
+## Segundo sprint
+### ¿Porqué vue? 
+* Framework progresivo { accesible, versátil, buen rendimiento }
+* Impulsa mucho las SPA ( single plage aplication) en combinación con <em> `herramientas modernas y librerías de apoyo` </em>
+* Es reactivo , cuando cambia un dato <strong>(Cualquier tipo de dato)</strong> , automáticamente cambian todos los datos que tienen una relación con este, 
+* 11/07 --> Instalación de dependencias en la rama `boilerplate` </br> {
+    - Crear package.son = npm init -y
+    - Instalar vue = npm i vue (se instala la ultima versión
+    - Instalar el eslint pluging para vue = npm i eslint-pluging.vue
+    - Inicializar eslint en el desarrollo del proyecto = npx eslint --init) </br> 
+}
 ---
 
 ## Pistas / Tips (RECURSOS)
