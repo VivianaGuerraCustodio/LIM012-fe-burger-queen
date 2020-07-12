@@ -21,6 +21,7 @@ El proyecto consiste en realizar un webApp en el contexto de un restaurante , re
     - Instalar el eslint pluging para vue = npm i eslint-pluging.vue
     - Inicializar eslint en el desarrollo del proyecto = npx eslint --init) </br> 
 }
+* Tengo confusión :v he instalado las dependencias pero al parecer no es necesario , entendi la documentacion de distinta manera haha. Rayos, tengo que pedir una OH urgente haha
 ---
 
 ## Pistas / Tips (RECURSOS)
